@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 859539e415b544d46877daf4aa0b41db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3588454702603916780
+    second: enemy3_cuff1_0
+  - first:
+      213: -2147960433150568596
+    second: enemy3_cuff1_1
+  - first:
+      213: 3492161405487292437
+    second: enemy3_cuff1_2
+  - first:
+      213: -6352039137215726207
+    second: enemy3_cuff1_3
+  - first:
+      213: 4194967155499480219
+    second: enemy3_cuff1_4
+  - first:
+      213: 8131866659618551932
+    second: enemy3_cuff1_5
+  - first:
+      213: -4259022832890193199
+    second: enemy3_cuff1_6
+  - first:
+      213: 8674613951724345453
+    second: enemy3_cuff1_7
+  - first:
+      213: -5193025987672091645
+    second: enemy3_cuff1_8
+  - first:
+      213: 1685643472431730430
+    second: enemy3_cuff1_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy3_cuff1_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 332
+        width: 247
+        height: 792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ad94c51c328a4bad55898b40d688d
+      internalID: 3588454702603916780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_cuff1_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 334
+        width: 260
+        height: 792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2ff3bb0e016fb4a8142408bff044bc
+      internalID: -2147960433150568596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_cuff1_2
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 334
+        width: 212
+        height: 790
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03fd6635c9c02049b44e1928b4ef4f2
+      internalID: 3492161405487292437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_cuff1_3
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 334
+        width: 205
+        height: 790
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9338622aec06c424fb903a2a50dabea8
+      internalID: -6352039137215726207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_cuff1_4
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 334
+        width: 258
+        height: 790
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47da00bf1a314bf468f2acd4a01bb714
+      internalID: 4194967155499480219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_cuff1_5
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 334
+        width: 371
+        height: 790
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770a3c28f9fa57c4e82d4eac7fa1ae3e
+      internalID: 8131866659618551932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_cuff1_6
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 334
+        width: 420
+        height: 790
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f928ce340f4d94fa014816aab33ff8
+      internalID: -4259022832890193199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_cuff1_7
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 821
+        width: 40
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b014190f24f5e4683bbf100543b057
+      internalID: 8674613951724345453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_cuff1_8
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 822
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99cf7d513cd19349835c46877e055f8
+      internalID: -5193025987672091645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_cuff1_9
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 334
+        width: 251
+        height: 790
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c0079faa51d944a4544ec4557f348
+      internalID: 1685643472431730430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ba44d9a01f596ed4dbe4f47aa2abb88b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

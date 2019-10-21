@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: c6b96396138df014f984029dd08eec88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4965800438112842303
+    second: enemy3_getup1_0
+  - first:
+      213: 3938200879933588297
+    second: enemy3_getup1_1
+  - first:
+      213: -697827763360716251
+    second: enemy3_getup1_2
+  - first:
+      213: 3720267467454086867
+    second: enemy3_getup1_3
+  - first:
+      213: 3937476053679688747
+    second: enemy3_getup1_4
+  - first:
+      213: -5677579429066263037
+    second: enemy3_getup1_5
+  - first:
+      213: 2964577755031198264
+    second: enemy3_getup1_6
+  - first:
+      213: 932330790629781715
+    second: enemy3_getup1_7
+  - first:
+      213: -1184341339270580510
+    second: enemy3_getup1_8
+  - first:
+      213: 7462415202917072512
+    second: enemy3_getup1_9
+  - first:
+      213: 8284361545562702646
+    second: enemy3_getup1_10
+  - first:
+      213: 6742696171808512805
+    second: enemy3_getup1_11
+  - first:
+      213: -7936619943315892596
+    second: enemy3_getup1_12
+  - first:
+      213: -8953522875053151216
+    second: enemy3_getup1_13
+  - first:
+      213: -9063200407692881549
+    second: enemy3_getup1_14
+  - first:
+      213: -8751683000601010812
+    second: enemy3_getup1_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy3_getup1_0
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 801
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b2859a76123d84aae8cc2ea57f21cb
+      internalID: 4965800438112842303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_1
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 801
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e064521bdf101164d8e7c0557f8a9d26
+      internalID: 3938200879933588297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_2
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 596
+        width: 794
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92402be2a56ed194980fd7ed76ce4895
+      internalID: -697827763360716251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_3
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 792
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3531d64d8a4314d9b031d0d394442c
+      internalID: 3720267467454086867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_4
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 604
+        width: 735
+        height: 273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b0830f0c2e4547b51e028134045f1
+      internalID: 3937476053679688747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 791
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab09082a75332d4e8ee30f60b0640e7
+      internalID: -5677579429066263037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_6
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 791
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0aafd73917714499483bc305c7e455
+      internalID: 2964577755031198264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_7
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 769
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2471d02ead37d3c42aa9d47b5679b534
+      internalID: 932330790629781715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_8
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 759
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe97902347cf9d44a8ccbcfa37962e0
+      internalID: -1184341339270580510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 563
+        width: 851
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181bd1777cb834e4ca1e068e5448bea5
+      internalID: 7462415202917072512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_10
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 563
+        width: 849
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739b7c5751871754dbbf74ee48321def
+      internalID: 8284361545562702646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_11
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 752
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271bb584da832b0409709066e17cee84
+      internalID: 6742696171808512805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_12
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 681
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7344f73aa27c6b143bbc33ff04d23586
+      internalID: -7936619943315892596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 628
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2345ce7f9d96d45b82245ac0bfc10f
+      internalID: -8953522875053151216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_14
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 630
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afad84df8a6ad840adf520b6819c2d7
+      internalID: -9063200407692881549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_getup1_15
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 616
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae16d18c48d3bfa41a8c859eb79ea7f3
+      internalID: -8751683000601010812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f75b4bbfbcad5eb4dbd940abb88ebcba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

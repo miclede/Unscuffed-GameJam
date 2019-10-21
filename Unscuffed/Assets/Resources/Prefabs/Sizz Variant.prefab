@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &4585803967106151462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5825802719166129072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c845b0b7a1625784bbdfa6c71024d3d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DamageAmount: 0
+--- !u!1001 &887774441803602029
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3224142996088542209, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Name
+      value: RifleTrigger
+      objectReference: {fileID: 0}
+    - target: {fileID: 3527307508667906714, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3527307508667906714, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.5603808
+      objectReference: {fileID: 0}
+    - target: {fileID: 3527307508667906714, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3527307508667906714, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3491166802969399547, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3491166802969399547, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3491166802969399547, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3491166802969399547, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7037151707309593727, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: actor
+      value: 
+      objectReference: {fileID: 4662874349667642118}
+    - target: {fileID: 7037151707309593727, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: maxhealth
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 2318656848644236680, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Name
+      value: Sizz Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4731877495318760672, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: MovementProcessor
+      value: 
+      objectReference: {fileID: 11400000, guid: af70cc3751878ee43bd70544b7728eed,
+        type: 2}
+    - target: {fileID: 4731877495318760672, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: actor
+      value: 
+      objectReference: {fileID: 4662874349667642118}
+    - target: {fileID: 5541637159135982443, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: AnimationProcessor
+      value: 
+      objectReference: {fileID: 11400000, guid: 8fcc40db5d9350943a14912f0f11b8be,
+        type: 2}
+    - target: {fileID: 5552880165027513009, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668540849946180573, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Name
+      value: SizzActor
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473185283774837693, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: f1edd09c0e088054a898eec5551b3d54, type: 2}
+    - target: {fileID: 6651862427066341885, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1744234303939629689, guid: c0b294094c724344ea8d0877ec4a2023,
+        type: 3}
+    - target: {fileID: 6651862427066341885, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651862427066341885, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 8.011955
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651862427066341885, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1588457966932052950, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 2.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 1588457966932052950, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 8.011955
+      objectReference: {fileID: 0}
+    - target: {fileID: 1588457966932052950, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 2.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 1588457966932052950, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 8.011955
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9, type: 3}
+--- !u!1 &5825802719166129072 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6668540849946180573, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 887774441803602029}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4662874349667642118 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5541637159135982443, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 887774441803602029}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5825802719166129072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb02af90b692c0d41b0bf38511d65625, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

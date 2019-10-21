@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: b1776ada5cfedad4aac9485083bac4d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7500358275144012551
+    second: stickrun1_0
+  - first:
+      213: 7549425583648664621
+    second: stickrun1_1
+  - first:
+      213: 7104625917346148897
+    second: stickrun1_2
+  - first:
+      213: -5544200346008924018
+    second: stickrun1_3
+  - first:
+      213: -7384539103514267612
+    second: stickrun1_4
+  - first:
+      213: 6152900995425301033
+    second: stickrun1_5
+  - first:
+      213: -6101226430002417992
+    second: stickrun1_6
+  - first:
+      213: 4387852464850908204
+    second: stickrun1_7
+  - first:
+      213: 7115460377406143189
+    second: stickrun1_8
+  - first:
+      213: -2583403148581760595
+    second: stickrun1_9
+  - first:
+      213: -1963271489657982535
+    second: stickrun1_10
+  - first:
+      213: -914149241143222404
+    second: stickrun1_11
+  - first:
+      213: 231329554067679675
+    second: stickrun1_12
+  - first:
+      213: 559696681928525607
+    second: stickrun1_13
+  - first:
+      213: 1916487262820989239
+    second: stickrun1_14
+  - first:
+      213: 2899663056255945738
+    second: stickrun1_15
+  - first:
+      213: 4843026824140216472
+    second: stickrun1_16
+  - first:
+      213: -3739919180601071671
+    second: stickrun1_17
+  - first:
+      213: 8754911531830680027
+    second: stickrun1_18
+  - first:
+      213: -2376239024441954225
+    second: stickrun1_19
+  - first:
+      213: -2857078431898067206
+    second: stickrun1_20
+  - first:
+      213: -589348183734693904
+    second: stickrun1_21
+  - first:
+      213: -4238718750109416549
+    second: stickrun1_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stickrun1_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 402
+        width: 351
+        height: 787
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adad531ed7867547bf3f60bb27b2ec2
+      internalID: -7500358275144012551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickrun1_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 402
+        width: 325
+        height: 787
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1018dcebf7af42c4eb56425bbd034774
+      internalID: 7104625917346148897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickrun1_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 411
+        width: 319
+        height: 778
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b740dc0d607790469cd67f42e963927
+      internalID: -7384539103514267612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickrun1_6
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 402
+        width: 309
+        height: 787
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42e272094b1c94e8ee9b279cc19d2f
+      internalID: -6101226430002417992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickrun1_8
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 402
+        width: 297
+        height: 787
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a9220fcab5c54798b5c7a0cdadcda
+      internalID: 7115460377406143189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickrun1_10
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 402
+        width: 295
+        height: 787
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e12bef749648a42b061b0e27603091
+      internalID: -1963271489657982535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickrun1_12
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 411
+        width: 296
+        height: 778
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f17fd90f20f1f4468487f1fab47a37c
+      internalID: 231329554067679675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickrun1_14
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 411
+        width: 288
+        height: 778
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b285bc5d8bd1a14469f8b502a0f38287
+      internalID: 1916487262820989239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickrun1_16
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 402
+        width: 290
+        height: 787
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e32c54508a5674f8551c48f2a26ee7
+      internalID: 4843026824140216472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stickrun1_21
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 402
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337e4f70bab7695458fab2e301cdf20e
+      internalID: -589348183734693904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 601870ae44d033d41867cad1c9f1edd7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
