@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5876757574249948390
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2318656848644236680, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Name
+      value: Snow Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1789453033851045027, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4731877495318760672, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: Dab
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4731877495318760672, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: actor
+      value: 
+      objectReference: {fileID: 2119425495113570189}
+    - target: {fileID: 5541637159135982443, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: AnimationProcessor
+      value: 
+      objectReference: {fileID: 11400000, guid: f53dd733fbe149d45929c34803a66490,
+        type: 2}
+    - target: {fileID: 1473185283774837693, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 32db2bc2673d7b04e9b7fb2bda8cb033, type: 2}
+    - target: {fileID: 6668540849946180573, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Name
+      value: Snow Actor
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651862427066341885, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3343895124158316733, guid: 6b99db3347e6aaa439b3972dda5fe4f9,
+        type: 3}
+    - target: {fileID: 6651862427066341885, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651862427066341885, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 7.9619427
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651862427066341885, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904914817629686313, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: 11.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1510207356605142836, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1450690881704529557, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 736260501480224339, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 268070669615421137, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164432645927457597, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: -12.2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9, type: 3}
+--- !u!114 &2119425495113570189 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5541637159135982443, guid: b3d71b0e3f07e7e43a7a29b8b2b0d2d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 5876757574249948390}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb02af90b692c0d41b0bf38511d65625, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

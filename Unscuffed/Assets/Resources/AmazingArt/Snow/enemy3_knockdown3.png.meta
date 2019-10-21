@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 8a6e714f1b99f4c4e8299e97b0d49d2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5599694791350825290
+    second: enemy3_knockdown3_0
+  - first:
+      213: 6802157227527533223
+    second: enemy3_knockdown3_1
+  - first:
+      213: 6311698716619268770
+    second: enemy3_knockdown3_2
+  - first:
+      213: -4793958185041450155
+    second: enemy3_knockdown3_3
+  - first:
+      213: 5943597140154393092
+    second: enemy3_knockdown3_4
+  - first:
+      213: -3417114283871403382
+    second: enemy3_knockdown3_5
+  - first:
+      213: 8385916821611859102
+    second: enemy3_knockdown3_6
+  - first:
+      213: -6859568558506295547
+    second: enemy3_knockdown3_7
+  - first:
+      213: 7936567451255007055
+    second: enemy3_knockdown3_8
+  - first:
+      213: -258203017143491272
+    second: enemy3_knockdown3_9
+  - first:
+      213: 402828960759642950
+    second: enemy3_knockdown3_10
+  - first:
+      213: -3929904658560655931
+    second: enemy3_knockdown3_11
+  - first:
+      213: -1334686509400805612
+    second: enemy3_knockdown3_12
+  - first:
+      213: 2729903662897792665
+    second: enemy3_knockdown3_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy3_knockdown3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 563
+        width: 849
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e71923d57bc39040b1bd5e2acd894ed
+      internalID: 5599694791350825290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_1
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 558
+        width: 853
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9abf0d9253cfc742a17d4fe9870ae98
+      internalID: 6802157227527533223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_2
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 750
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186d9fb69e165449bdd87d7de8a15da
+      internalID: 6311698716619268770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 686
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca4428259bd3b4e9aab3cfc444fbb6
+      internalID: -4793958185041450155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_4
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 554
+        width: 844
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17322a491434454e8fa00451ccacab2
+      internalID: 5943597140154393092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_5
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 556
+        width: 843
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf7f7915047df44f9cd6ac6cbb858d4
+      internalID: -3417114283871403382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 679
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a793e0af51c94d9fa96c003aa0163
+      internalID: 8385916821611859102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_7
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 676
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d6cbc3a8302448a506ee8dfe252ca
+      internalID: -6859568558506295547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_8
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 672
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442ac8d6913d2e447aae9921a16ce586
+      internalID: 7936567451255007055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 454
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bad03794fc22e4388d74c967d0968a
+      internalID: -258203017143491272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_10
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 454
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a1bbc9d1d43a04ab64770e3c545c31
+      internalID: 402828960759642950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_11
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 476
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d81bbd0258f9d428eaaff97015e825
+      internalID: -3929904658560655931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_12
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 454
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ca49cc95293cc41b35d29ced5fd3db
+      internalID: -1334686509400805612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy3_knockdown3_13
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 454
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c788ec23f0e3f3842b09a53a71fbebdb
+      internalID: 2729903662897792665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1caf47910fdc9ae4ca42173ef5fc9f63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
