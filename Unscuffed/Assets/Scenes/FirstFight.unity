@@ -1021,6 +1021,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7354116367495454885, guid: e6fbef0a10ed86543b63d062065b4e71,
+        type: 3}
+      propertyPath: sceneToLoad
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8014613343686449928, guid: e6fbef0a10ed86543b63d062065b4e71,
         type: 3}
       propertyPath: m_textInfo.lineCount
