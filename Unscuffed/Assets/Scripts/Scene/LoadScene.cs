@@ -5,17 +5,28 @@ using UnityEngine.UI;
 
 public class LoadScene : MonoBehaviour
 {
+    [SerializeField] private bool _requireFader = true;
+
     public Image blackImageCheck;
     public Animator fader;
 
     public int sceneToLoad;
 
+    private PlaySound _playSound;
+
+    private void Awake()
+    {
+        _playSound = FindFirstObjectByType<PlaySound>();
+    }
+
     public void ClickToLoad()
     {
         Time.timeScale = 1;
         AudioListener.pause = false;
-        GetComponent<PlaySound>().playButton();
-        StartCoroutine(FadeAndLoad());
+
+        if (!_requireFader)
+            SceneManager.LoadScene(sceneToLoad, LoadSceneMode.Single);
+        else StartCoroutine(FadeAndLoad());
     }
 
     IEnumerator FadeAndLoad()

@@ -9,7 +9,7 @@ MonoImporter:
   - buttonClip: {fileID: 8300000, guid: d8671db6dbfee284db39451eab202c81, type: 3}
   - upperCutClip: {fileID: 8300000, guid: 020dd6f4744cd6e46bbeaabe91e54b5d, type: 3}
   - thurstClip: {fileID: 8300000, guid: 787e4af693a3d084ea8d662b985dcb46, type: 3}
-  - bulletClip: {fileID: 8300000, guid: 766604334e426c8489d797e3eaa9b048, type: 3}
+  - bulletClip: {fileID: 8300000, guid: d40330822ccea6140b664c0560d5022f, type: 3}
   - explosionClip: {fileID: 8300000, guid: 4794a51e22644b5449ef691a08b874b6, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}

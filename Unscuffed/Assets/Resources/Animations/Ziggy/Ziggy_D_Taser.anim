@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Ziggy_D_Taser
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -85,7 +85,8 @@ AnimationClip:
       m_RotationOrder: 4
     path: 
   m_FloatCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -122,7 +123,9 @@ AnimationClip:
     path: 
     classID: 68
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -150,7 +153,9 @@ AnimationClip:
     path: 
     classID: 68
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -178,7 +183,9 @@ AnimationClip:
     path: 
     classID: 68
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -233,7 +240,9 @@ AnimationClip:
     path: 
     classID: 68
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -270,8 +279,10 @@ AnimationClip:
     path: 
     classID: 114
     script: {fileID: 11500000, guid: c845b0b7a1625784bbdfa6c71024d3d8, type: 3}
+    flags: 16
   m_PPtrCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
     - time: 0
       value: {fileID: 7431716935292745929, guid: b3b2b05c70b73d34189d3c75fdd596de,
         type: 3}
@@ -354,6 +365,7 @@ AnimationClip:
     path: 
     classID: 212
     script: {fileID: 0}
+    flags: 2
   m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
@@ -368,6 +380,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 0
       attribute: 3305885265
@@ -375,6 +389,8 @@ AnimationClip:
       typeID: 68
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 0
       attribute: 1872933342
@@ -382,6 +398,8 @@ AnimationClip:
       typeID: 68
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 0
       attribute: 3519061512
@@ -389,6 +407,8 @@ AnimationClip:
       typeID: 68
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 0
       attribute: 413499720
@@ -396,6 +416,8 @@ AnimationClip:
       typeID: 68
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 0
       attribute: 2374240008
@@ -403,6 +425,8 @@ AnimationClip:
       typeID: 114
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 0
       attribute: 0
@@ -410,6 +434,8 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 0
       attribute: 3
@@ -417,6 +443,8 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     pptrCurveMapping:
     - {fileID: 7431716935292745929, guid: b3b2b05c70b73d34189d3c75fdd596de, type: 3}
     - {fileID: 134777469667813456, guid: b3b2b05c70b73d34189d3c75fdd596de, type: 3}
@@ -465,7 +493,8 @@ AnimationClip:
     m_HeightFromFeet: 0
     m_Mirror: 0
   m_EditorCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -502,7 +531,9 @@ AnimationClip:
     path: 
     classID: 68
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -530,7 +561,9 @@ AnimationClip:
     path: 
     classID: 68
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -558,7 +591,9 @@ AnimationClip:
     path: 
     classID: 68
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -613,7 +648,9 @@ AnimationClip:
     path: 
     classID: 68
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -659,7 +696,9 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -696,7 +735,9 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -733,7 +774,9 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -770,7 +813,9 @@ AnimationClip:
     path: 
     classID: 114
     script: {fileID: 11500000, guid: c845b0b7a1625784bbdfa6c71024d3d8, type: 3}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -798,7 +843,9 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -826,7 +873,9 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -854,7 +903,16 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
+    flags: 16
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 1
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0.51666665
+    functionName: PlayAudio
+    data: 
+    objectReferenceParameter: {fileID: 8300000, guid: e88084c6f293c324db2b4dcf575d60dc,
+      type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

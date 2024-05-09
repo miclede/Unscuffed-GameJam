@@ -4,33 +4,26 @@ using UnityEngine.UI;
 
 public class MiMa : MonoBehaviour
 {
-    public Image MiMaImage;
-    public Image blackBackground;
+    [SerializeField] private Image MiMaImage;
 
-    public Image fadeImageCheck;
-    public Animator fader;
+    [SerializeField] private LoadScene _sceneLoader;
 
-    AudioSource StartPageAudio;
+    private PlaySound _playSound;
+
+    private void Awake()
+    {
+        _playSound = FindFirstObjectByType<PlaySound>();
+    }
 
     private void Start()
     {
-        StartPageAudio = GetComponent<AudioSource>();
+        _playSound.PlayIntro();
         StartCoroutine(Fade());
-    }
-
-    void StartMusic()
-    {
-        StartPageAudio.Play();
     }
 
     IEnumerator Fade()
     {
-        fader.SetBool(VarUI.Fade, true);
         yield return new WaitUntil(() => MiMaImage.enabled == false);
-        StartMusic();
-        blackBackground.enabled = false;
-        yield return new WaitUntil(() => blackBackground.enabled == false);
-        fader.SetBool(VarUI.Fade, false);
-        yield return new WaitUntil(() => fadeImageCheck.enabled == false);
+        _sceneLoader.ClickToLoad();
     }
 }

@@ -14,6 +14,18 @@ public class Actor : MonoBehaviour
     [HideInInspector]
     public bool canBeHurt;
 
+    private PlaySound _playSound;
+
+    private void Awake()
+    {
+        _playSound = FindFirstObjectByType<PlaySound>();
+    }
+
+    public void PlayAudio(AudioClip soundEffect)
+    {
+        _playSound.Play(soundEffect);
+    }
+
     public void PlayAnimation()
     {
         AnimationProcessor.GetAnimation(this);

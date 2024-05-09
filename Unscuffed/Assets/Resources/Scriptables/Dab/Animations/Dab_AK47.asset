@@ -12,3 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9841dfde33e030743a50ac96242eb5fc, type: 3}
   m_Name: Dab_AK47
   m_EditorClassIdentifier: 
+  _soundEffectClip: {fileID: 8300000, guid: d40330822ccea6140b664c0560d5022f, type: 3}

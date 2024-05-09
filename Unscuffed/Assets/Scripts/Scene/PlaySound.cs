@@ -2,53 +2,30 @@
 
 public class PlaySound : MonoBehaviour
 {
-    public AudioSource sound;
-    public AudioClip jabClip;
-    public AudioClip buttonClip;
-    public AudioClip upperCutClip;
-    public AudioClip thurstClip;
-    public AudioClip bulletClip;
-    public AudioClip explosionClip;
-
-    void Play()
+    private void Awake()
     {
-        sound.Play();
+        DontDestroyOnLoad(this.gameObject);
     }
 
-    public void playJab()
+    [SerializeField] private AudioSource _musicSource;
+    [SerializeField] private AudioSource _baseGameSound;
+    [SerializeField] private AudioClip _playIntro;
+
+    public void Play(AudioClip toPlay)
     {
-        sound.clip = jabClip;
-        Play();
+        _baseGameSound.clip = toPlay;
+        _baseGameSound.Play();
     }
 
-    public void playThrust()
+    public void PlayMusic(AudioClip music)
     {
-        sound.clip = thurstClip;
-        Play();
+        _musicSource.clip = music;
+        _musicSource.Play();
     }
 
-    public void playUpperCut()
+    public void PlayIntro()
     {
-        sound.clip = upperCutClip;
-        Play();
+        _baseGameSound.clip = _playIntro;
+        _baseGameSound.Play();
     }
-
-    public void playButton()
-    {
-        sound.clip = buttonClip;
-        Play();
-    }
-
-    public void playExplosion()
-    {
-        sound.clip = explosionClip;
-        Play();
-    }
-
-    public void playBullet()
-    {
-        sound.clip = bulletClip;
-        Play();
-    }
-
 }
